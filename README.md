@@ -16,6 +16,10 @@ Earn cash from walking, recycling, reviewing music, clicking, playing and even s
  - [CpaBuild](https://eliteurl.com/CpaBuild)
  - [AdWorkMedia](https://eliteurl.com/AdWorkMedia)
  - [PointClickTrack](https://eliteurl.com/PointClickTrack)
+ 
+ ### Reward for posting on Social Network
+  - [TonPlace](https://eliteurl.com/TonPlace)
+  - [IZEA](https://eliteurl.com/IZEA)
 
  ### Bitcoin/Trading
  - [CoinBase](https://eliteurl.com/CoinBase)
