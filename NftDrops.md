@@ -1,4 +1,4 @@
 ### NFT Drops List
 
 
- - [Grizlly](https://eliteurl.com/Grizzly)
+ - [GrizzlyFi $GHNY](https://eliteurl.com/Grizzly)
