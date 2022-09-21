@@ -17,7 +17,7 @@ So, my monthly income from using all apps:
 
 So, monthly I get $90+ by literally doing nothing(only from walking/steps).
 
-#### From Referral system I make much more, but I don't mention the total as its depend on total referer you have, a method how to get mane referer its described here => [Earn by Referral](https://github.com/AutoBotKit/OnlineMoneyMaker/blob/main/MultiAccount.md).
+#### From Referral system I make much more, but I don't mention the total as its depend on total referer you have, a method how to get mane referer its described here => [Earn by Referral](https://github.com/AutoBotKit/OnlineMoneyMaker/blob/main/EarnByReferral.md).
 
 * ### IMPORTANT:
 - all apps are available only on iOS and Android, you can't make money with them from a Desktop PC/Laptop
